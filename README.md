@@ -33,11 +33,11 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 	# return public ambitions ...
 	def Ambitions():
 		1.) Be ambitious ():-
-		          'Ambition is the first step to Success '
-			  'Don”t be afraid to be Ambitious about your Goal Hard Work Never stops'
-			  'Neither Should Your Dream'
-			  'and never Let No one discourse Your ambitious Attitude. '
-			  'You Don’t Need A Fan Club to achive your Goals Be your Own Motivation'
+		          '(Ambition is the first step to Success 
+			  Don”t be afraid to be Ambitious about your Goal
+			  Hard Work Never stops Neither Should Your Dream
+			  and never Let No one discourse Your ambitious Attitude. 
+			  You Don’t Need A Fan Club to achive your Goals Be your Own Motivation)'
  
 		2.) Following your passion is not overrated ():-
 		         'I grew up hearing that I should find my passion and pursue a career that I loved.'
