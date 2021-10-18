@@ -1,7 +1,7 @@
 # I'm [*SHASHIKANT*](https://www.linkedin.com/in/shashikant-001/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
 [![Linkedin Badge](https://img.shields.io/badge/-shashikant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashikant-sk-1150511b0/)](https://www.linkedin.com/in/shashikant-001/) [![Gmail Badge](https://img.shields.io/badge/-shashikantshah540@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shashikantshah540@gmail.com)](mailto:shashikantshah540@gmail.com) <img src="https://komarev.com/ghpvc/?username=shashikant&label=Profile%20views&color=FF8C00&style=flat-square" alt="shashikant" />
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/shashikant-sk?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/shashikant-sk/shashikant-sk?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shashikant-sk?style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/shashikant-sk?label=followers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shashikant-sk?style=for-the-badge">
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
 Click here to go to my previous github account : [shashikant](https://github.com/shashikant-sk)
 ## Welcome to my World :. . .
