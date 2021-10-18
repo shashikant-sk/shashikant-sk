@@ -34,7 +34,7 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 	def Ambitions():
 		1.) Be ambitious ():-
 		          'Ambition is the first step to Success '
-			  Don't be afraid to be Ambitious about your Goal Hard Work Never stops'
+			  Don“t be afraid to be Ambitious about your Goal Hard Work Never stops'
 			  'Neither Should Your Dream'
 			  'and never Let No one discourse Your ambitious Attitude. '
 			  'You Don’t Need A Fan Club to achive your Goals Be your Own Motivation'
@@ -53,7 +53,7 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 			  'If you learn from a setback' 
 			  'it’s not really a setback but a learning experience”' 
 			  
-			 “Failing is great unless it becomes a habit.' 
+			 'Failing is great unless it becomes a habit.' 
 			 'But it’s very important to recognize'
 			  'when certain things just do not fall into place.'
 			  'Always be open to plan B if the plan A doesn’t work.'         
