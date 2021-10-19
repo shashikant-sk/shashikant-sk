@@ -68,9 +68,19 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
 ## My Top 4 Role Models :scientist:
-[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai) [**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs) [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
---- | --- | --- | ---
-![Sundar Pichai](images/Sundar_Pichai.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![steve jobs](images/steve_jobs.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
+[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)
+[**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai)|
+[**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates)
+[**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)|
+[**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs) 
+[**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) 
+[**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
+
+                --- | --- | --- | ---
+![Sundar Pichai](images/sunder_pichai.jpg) |
+![Bill Gates](images/bill-gates.jpg) |
+![steve jobs](images/steve_jobs.jpg) | 
+![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
 <img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="260px" width="230px">
