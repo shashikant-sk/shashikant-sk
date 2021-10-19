@@ -74,7 +74,7 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 ![steve jobs](images/steve_jobs.jpg)||![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="images/shashikant.jpg" height="260px" width="260px">
+<img  align='right' src="images/shashikant.jpg" height="250px" width="2200px">
 
 <!-- frameworks. added api calls to compact cards -->
 
