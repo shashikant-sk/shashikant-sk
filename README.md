@@ -81,7 +81,7 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 <!--[![Generic badge](https://twitter.com/Shashikant_03/header_photo)](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)-->
 
 ## Languages :computer: and Frameworks I Love :heart:
-<img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> <img src='images/flutter.jpg' height='60' /> 
+<img src = 'images/html.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/bootstrap.svg' height='60'/>  <img src = 'images/js.svg' height='60'/>   <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> <img src='images/flutter.jpg' height='60' /> 
 
 
 # 
