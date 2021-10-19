@@ -68,35 +68,29 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
 ## My Top 4 Role Models :scientist:
-[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)|
+[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)|[**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai)|
 
-[**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai)|
+[**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates)|[**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)|
 
-[**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates)|
+[**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs)|[**(Apple)**](https://en.wikipedia.org/wiki/Microsoft)|
 
-[**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)|
+[**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)|[**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
 
-[**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs)| 
-
-[**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)|
-
-[**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
-
-                --- | --- | --- | ---
+--- | --- | --- | ---
 ![Sundar Pichai](images/sunder_pichai.jpg) |
 ![Bill Gates](images/bill-gates.jpg) |
 ![steve jobs](images/steve_jobs.jpg) | 
 ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="260px" width="230px">
+<img  align='right' src="https://twitter.com/Shashikant_03/header_photo" height="260px" width="230px">
 
 <!-- frameworks. added api calls to compact cards -->
 
 <!--[![Generic badge](https://img.shields.io/badge/Marketplace-VSCode-green.svg)](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)-->
 
 ## Languages :computer: and Frameworks I Love :heart:
-<img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' /> <img src='images/apollo.png' height='60' />  <img src='images/react.jpg' height='60' /> <img src='images/vuejs.jpg' height='60' />
+<img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> 
 
 
 # 
