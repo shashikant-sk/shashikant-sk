@@ -3,7 +3,8 @@
 <!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/shashikant-sk?label=followers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shashikant-sk?style=for-the-badge">
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
-Click here to go to my previous github account : [shashikant](https://github.com/shashikant-sk)
+
+
 ## Welcome to my World :. . .
 My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer** :zap: , **Android developer** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
 <!--defining python code section-->
