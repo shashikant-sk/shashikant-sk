@@ -68,16 +68,7 @@ def Ambitions():
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
 ## My Top 4 Role Models :scientist:
-[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)-->[**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai)
-![Sundar Pichai](images/sunder_pichai.jpg)
-
-[**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) --> [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)|
-![Bill Gates](images/bill-gates.jpg)
- 
-[**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs)-->[**(Apple)**](https://en.wikipedia.org/wiki/Steve_Jobs) 
-![steve jobs](images/steve_jobs.jpg)
-
- [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)-->[**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
+[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)-->[**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai)![Sundar Pichai](images/sunder_pichai.jpg)||[**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) --> [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)![Bill Gates](images/bill-gates.jpg)||[**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs)-->[**(Apple)**](https://en.wikipedia.org/wiki/Steve_Jobs)|![steve jobs](images/steve_jobs.jpg)||[**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)-->[**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
 ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
