@@ -68,12 +68,18 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
 ## My Top 4 Role Models :scientist:
-[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)
+[**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)|
+
 [**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai)|
-[**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates)
+
+[**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates)|
+
 [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)|
-[**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs) 
-[**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) 
+
+[**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs)| 
+
+[**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)|
+
 [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
 
                 --- | --- | --- | ---
