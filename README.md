@@ -70,8 +70,8 @@ My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer*
 ## My Top 4 Role Models :scientist:
 [**Sundar Pichai**](https://en.wikipedia.org/wiki/Sundar_Pichai)-->[**(GOOGLE@CEO)**](https://en.wikipedia.org/wiki/Sundar_Pichai) || [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) --> [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft) || [**Steve_Jobs**](https://en.wikipedia.org/wiki/Steve_Jobs)-->[**(Apple)**](https://en.wikipedia.org/wiki/Steve_Jobs) || [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)-->[**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
 
-![Sundar Pichai](images/sunder_pichai.jpg)||![Bill Gates](images/bill-gates.jpg)||
-![steve jobs](images/steve_jobs.jpg)||![Jeff Bezos](images/jeff-bezos.jpg) 
+[Sundar Pichai]<img  align='right' src="images/sunder_pichai.jpg" height="250px" width="220px"> || [Bill Gates]<img  align='right' src="images/bill-gates.jpg" height="250px" width="220px"> 
+[steve jobs]<img  align='right' src="(images/steve_jobs.jpg" height="250px" width="220px">)|| [Jeff Bezos]<img  align='right' src="images/jeff-bezos.jpg" height="250px" width="220px">  
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
 <img  align='right' src="images/shashikant.jpg" height="250px" width="220px">
