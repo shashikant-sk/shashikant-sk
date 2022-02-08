@@ -80,7 +80,7 @@ def Ambitions():
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shashikant-sk&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
@@ -95,6 +95,10 @@ def Ambitions():
 1. If you think that any of my repositories :mailbox_with_mail: could be better please feel free to raise an Issue :hand: or let me know via email :email:.
 2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
 3. Please do not spam :x:.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashikant-sk)  
+
+![GitHub metrics](https://metrics.lecoq.io/shashikant-sk)  
 
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
