@@ -70,10 +70,10 @@ def Ambitions():
 
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
-## My Top 2 Role Models :scientist:
-[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**steve jobs**](https://en.wikipedia.org/wiki/Apple_Inc.) [**(Apple)**](https://en.wikipedia.org/wiki/Reliance_Industries)|
+## My Top 4 Role Models :scientist:
+[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**steve jobs**](https://en.wikipedia.org/wiki/Apple_Inc.) [**(Apple)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
 --- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) | ![steve jobs](images/steve_jobs.jpg)
+![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![steve jobs](images/steve_jobs.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
 <img  align='right' src="images/shashikant.jpg" height="250px" width="220px">
