@@ -6,7 +6,7 @@
 
 
 ## Welcome to my World :. . .
-My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer** :zap: , **Android developer** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
+My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer** :zap: , **Android developer** :lock:, **Ui designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
 
 To be a part of a progressive organization that gives scope to enhance my knowledge and skills and reach the pinnacle in the field with sheer determination, dedication and hard work. I am currently working on myself to gain technical knowledge and presentation/communication skills. Am capable of working as a team player or independently. Am currently pursuing my bachelor degree in Computer Science and Engineering from KIIT University.
 <!--defining python code section-->
@@ -71,7 +71,7 @@ def Ambitions():
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
 ## My Top 4 Role Models :scientist:
-[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**steve jobs**](https://en.wikipedia.org/wiki/Apple_Inc.) [**(Apple)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
+[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**steve jobs**](https://en.wikipedia.org/wiki/Apple_Inc.) [**(Apple)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
 --- | --- | --- | ---
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![steve jobs](images/steve_jobs.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
