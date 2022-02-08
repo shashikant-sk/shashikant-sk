@@ -76,18 +76,28 @@ def Ambitions():
 <img src = 'images/html.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/bootstrap.svg' height='60'/>  <img src = 'images/js.svg' height='60'/>   <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> <img src='images/flutter.jpg' height='60' /> 
 
 
-# 
+### Hi there 👋, .
 
-![shashikant github stats](https://github-readme-stats.vercel.app/api?username=shashikant-sk&show_icons=true)
 
-#
 
-<!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
-<img align = 'left' src = "https://www.facebook.com/passion.for.goal" height = "165px" width = "125px">
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashikant-sk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shashikant_03)  
 
-#
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashikant-sk)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikant-sk&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/shashikant-sk)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shashikant-sk)  
+
+
+
+
+
 <!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
 **For my previous Contributions and Commits please refer to : [shashikant](https://github.com/shashikant-sk)**
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&lang_count=10&width=window.clientWidth)](https://github.com/shashikant-sk)-->
