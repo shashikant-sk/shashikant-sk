@@ -75,12 +75,7 @@ def Ambitions():
 ## Languages :computer: and Frameworks I Love :heart:
 <img src = 'images/html.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/bootstrap.svg' height='60'/>  <img src = 'images/js.svg' height='60'/>   <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> <img src='images/flutter.jpg' height='60' /> 
 
-
-### Hi there 👋, .
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashikant-sk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shashikant_03)  
+ 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
