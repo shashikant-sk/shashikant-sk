@@ -5,9 +5,9 @@
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
 
 
-## Welcome to my World :. . . :artist:
+## Welcome to my World :. . . :artist: :sparkles:.
 
-**Web Developer**  **Android developer** :two_men_holding_hands: :sparkles:.
+ 
 To be a part of a progressive organization that gives scope to enhance my knowledge and skills and reach the pinnacle in the field with sheer determination, dedication and hard work. I am currently working on myself to gain technical knowledge and presentation/communication skills. Am capable of working as a team player or independently. Am currently pursuing my bachelor degree in Computer Science and Engineering from KIIT University.
 <!--defining python code section-->
 
