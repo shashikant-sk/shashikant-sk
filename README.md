@@ -95,10 +95,11 @@ def Ambitions():
 1. If you think that any of my repositories :mailbox_with_mail: could be better please feel free to raise an Issue :hand: or let me know via email :email:.
 2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
 3. Please do not spam :x:.
-
+---
 
 ![GitHub metrics](https://metrics.lecoq.io/shashikant-sk)  
 
+---
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : **shashikantshah540@gmail.com**
