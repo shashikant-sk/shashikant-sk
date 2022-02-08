@@ -70,17 +70,7 @@ def Ambitions():
 
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
-## My Top 4 Role Models :scientist:
-[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**steve jobs**](https://en.wikipedia.org/wiki/Apple_Inc.) [**(Apple)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
---- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![steve jobs](images/steve_jobs.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
-<!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="images/shashikant.jpg" height="250px" width="220px">
-
-<!-- frameworks. added api calls to compact cards -->
-
-<!--[![Generic badge](https://twitter.com/Shashikant_03/header_photo)](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)-->
 
 ## Languages :computer: and Frameworks I Love :heart:
 <img src = 'images/html.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/bootstrap.svg' height='60'/>  <img src = 'images/js.svg' height='60'/>   <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> <img src='images/flutter.jpg' height='60' /> 
