@@ -72,10 +72,6 @@ def Ambitions():
 ```
 
 
-## Languages :computer: and Frameworks I Love :heart:
-<img src = 'images/html.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/bootstrap.svg' height='60'/>  <img src = 'images/js.svg' height='60'/>   <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> <img src='images/flutter.jpg' height='60' /> 
-
- 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -92,10 +88,6 @@ def Ambitions():
 
 
 
-
-<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
-**For my previous Contributions and Commits please refer to : [shashikant](https://github.com/shashikant-sk)**
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&lang_count=10&width=window.clientWidth)](https://github.com/shashikant-sk)-->
 ## Current Status
 - 🔭 I’m currently working on improving :construction: my coding skills
 - 🌱 I’m currently learning data structures and algorithms :chart_with_upwards_trend:
