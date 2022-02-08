@@ -1,17 +1,7 @@
-# I'm [*SHASHIKANT*](https://www.linkedin.com/in/shashikant-001/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
-[![Linkedin Badge](https://img.shields.io/badge/-shashikant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shashikant-sk-1150511b0/)](https://www.linkedin.com/in/shashikant-001/) [![Gmail Badge](https://img.shields.io/badge/-shashikantshah540@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shashikantshah540@gmail.com)](mailto:shashikantshah540@gmail.com) <img src="https://komarev.com/ghpvc/?username=shashikant&label=Profile%20views&color=FF8C00&style=flat-square" alt="shashikant" />
-<!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/shashikant-sk?label=followers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/shashikant-sk?style=for-the-badge">
-<!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
+### Hi there 👋, .
+![](https://pbs.twimg.com/profile_banners/917046930055749632/1634149002/1080x360)
 
-
-## Welcome to my World :. . .
-My name is **shashikant** :raising_hand: and I am a 22 year old **Web Developer** :zap: , **Android developer** :lock:, **Ui designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:. 
-
-To be a part of a progressive organization that gives scope to enhance my knowledge and skills and reach the pinnacle in the field with sheer determination, dedication and hard work. I am currently working on myself to gain technical knowledge and presentation/communication skills. Am capable of working as a team player or independently. Am currently pursuing my bachelor degree in Computer Science and Engineering from KIIT University.
-<!--defining python code section-->
-
-![shashikant Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashikant-sk&theme=react-dark&hide_border=true&area=true)
+My name is shashikant 🙋 and I am a 22 year old Web Developer ⚡ , Android developer 🔒, Ui designer 🧑‍🎨 , Researcher 🔬 and a Book Worm 📖. I love learning new stuff 💡 which has a future/value in the global market. I love increasing connections 👬 and looking out for every oppurtunity I can grab. I love competitive coding 🔱 and spend a fair amount of time ⌛ going through business case studies or research papers ✨.
 
 ## Who am I :point_down:?
 ```python
@@ -70,56 +60,28 @@ def Ambitions():
 
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
-## My Top 4 Role Models :scientist:
-[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**steve jobs**](https://en.wikipedia.org/wiki/Apple_Inc.) [**(Apple)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
---- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![steve jobs](images/steve_jobs.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
-<!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
-<img  align='right' src="images/shashikant.jpg" height="250px" width="220px">
+Skills: c / java / Python / HTML / CSS / JAVASCRIPT / REACT JS / EXPRESS JS / MONGODB / NODE JS /
 
-<!-- frameworks. added api calls to compact cards -->
-
-<!--[![Generic badge](https://twitter.com/Shashikant_03/header_photo)](https://marketplace.visualstudio.com/items?itemName=Solvable.shades)-->
-
-## Languages :computer: and Frameworks I Love :heart:
-<img src = 'images/html.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/bootstrap.svg' height='60'/>  <img src = 'images/js.svg' height='60'/>   <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/>  <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/><img src='images/bash.png' height='60' />   <img src='images/wordpress.png' height='60' />   <img src='images/react.jpg' height='60'/> <img src='images/laravel.jpg' height='60' /> <img src='images/flutter.jpg' height='60' /> 
+- 🔭 I’m currently working on  I’m currently working on improving 🚧 my coding skills 
+- 🌱 I’m currently learning  I’m currently learning data structures and algorithms 📈 
+- 👯 I’m looking to collaborate on  I’m looking to collaborate with future Entrepreneurs 🧑‍🔬 with cool ideas 💣 and projects 
+- 💬 Ask me about Ask me about anything , always happy to help 😉 
+- 📫 How to reach me: How to reach me: Please refer to the Contact Me section 👇 or the Header ☝️ 
 
 
-# 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashikant-sk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/PASSion.for.goal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Shashikant_001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shashikant_03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shashikant-01.netlify.app/)  
 
-![shashikant github stats](https://github-readme-stats.vercel.app/api?username=shashikant-sk&show_icons=true)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-#
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashikant-sk)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--<img  align='left' src="images/lang.png" height="165px" width="125px">-->
-<img align = 'left' src = "https://www.facebook.com/passion.for.goal" height = "165px" width = "125px">
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikant-sk&show_icons=true&count_private=true)  
 
-#
-<!--<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />-->
-**For my previous Contributions and Commits please refer to : [shashikant](https://github.com/shashikant-sk)**
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&lang_count=10&width=window.clientWidth)](https://github.com/shashikant-sk)-->
-## Current Status
-- 🔭 I’m currently working on improving :construction: my coding skills
-- 🌱 I’m currently learning data structures and algorithms :chart_with_upwards_trend:
-- 👯 I’m looking to collaborate with future Entrepreneurs :scientist: with cool ideas :bomb: and projects
-- 💬 Ask me about anything , always happy to help :wink:
-- 📫 How to reach me: Please refer to the **Contact Me** section :point_down: or the **Header** :point_up:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashikant-sk)  
 
-## Contributions :file_folder:
-1. If you think that any of my repositories :mailbox_with_mail: could be better please feel free to raise an Issue :hand: or let me know via email :email:.
-2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
-3. Please do not spam :x:.
+![GitHub metrics](https://metrics.lecoq.io/shashikant-sk)  
 
-## Contact Me 
-Have a Project ? Think I can contribute ? Need some help ?
-Feel free to shoot a mail to : **shashikantshah540@gmail.com**
-Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
-You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shashikant-sk)  
 
-:copyright: ReadMe Designed by shashikant
-
-##
-Note : Although Responsive , this ReadMe is best viewed at 1280 x 720 resolution
+![Profile views](https://gpvc.arturio.dev/shashikant-sk)  
