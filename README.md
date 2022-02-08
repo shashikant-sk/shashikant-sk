@@ -108,5 +108,3 @@ You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at 
 
 :copyright: ReadMe Designed by shashikant
 
-##
-Note : Although Responsive , this ReadMe is best viewed at 1280 x 720 resolution
