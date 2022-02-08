@@ -96,7 +96,6 @@ def Ambitions():
 2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
 3. Please do not spam :x:.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shashikant-sk)  
 
 ![GitHub metrics](https://metrics.lecoq.io/shashikant-sk)  
 
