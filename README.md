@@ -97,7 +97,8 @@ def Ambitions():
     </a>
 </div>
 <br/>
-
+ <hr/>
+ 
  ### Trophy:
  
 <div align=center>
@@ -105,10 +106,9 @@ def Ambitions():
       <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=shashikant-sk&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
 </div>
----
-
-
-
+<br/>
+ <hr/>
+ <br/>
 
 ## Current Status
 - 🔭 I’m currently working on improving :construction: my coding skills
@@ -122,10 +122,7 @@ def Ambitions():
 2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
 3. Please do not spam :x:.
 ---
-
-![GitHub metrics](https://metrics.lecoq.io/shashikant-sk)  
-
----
+  
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : **shashikantshah540@gmail.com**
