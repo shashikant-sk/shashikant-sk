@@ -104,7 +104,7 @@ def Ambitions():
  
 <div >
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img  width=100% src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/shashikant-sk)" />
+      <img  width=100% src="[![trophy](https://github-profile-trophy.vercel.app/?username=shashikant-sk)](https://github.com/ryo-ma/github-profile-trophy)" />
     </a>
 </div>
 <br/>
