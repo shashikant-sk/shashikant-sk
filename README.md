@@ -97,16 +97,16 @@ def Ambitions():
       <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&langs_count=20&show_icons=true&hide_border=true&theme=react&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
     </a>
 </div>
-<br/>
+<!-- <br/> -->
  <hr/>
  
- ### Trophy:
+<!--  ### Trophy: -->
  
-<div >
+<!-- <div >
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img  width=100% src="[![trophy](https://github-profile-trophy.vercel.app/?username=shashikant-sk)](https://github.com/ryo-ma/github-profile-trophy)" />
     </a>
-</div>
+</div> -->
 <br/>
  <hr/>
  <br/>
