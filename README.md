@@ -101,16 +101,16 @@ def Ambitions():
 <!-- <br/> -->
  <hr/>
  
-<!--  ### Trophy: -->
+ ### Trophy:
  
-<!-- <div >
+ <div >
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img  width=100% src="[![trophy](https://github-profile-trophy.vercel.app/?username=shashikant-sk)](https://github.com/ryo-ma/github-profile-trophy)" />
     </a>
 </div> -->
-<!-- <br/> -->
+ <br/>
  <hr/>
-<!--  <br/> -->
+  <br/>
 
 ## Current Status
 - 🔭 I’m currently working on improving :construction: my coding skills
