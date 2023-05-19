@@ -75,7 +75,7 @@ for ambition in Ambitions():
 		    
 		# private_ambitions out of scope :-)
 
-	#     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
+	  “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
 
 
