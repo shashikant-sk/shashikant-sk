@@ -94,8 +94,8 @@ def Ambitions():
 ### Most Used Languages
 
 
- <a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)">
-      <img width=325 src="https://github.com/shashikant-sk/github-readme-stats" />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) " />
     </a>
 </div>
 <br/>
