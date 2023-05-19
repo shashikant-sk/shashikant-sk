@@ -9,11 +9,11 @@
 
  
 To be a part of a progressive organization that gives scope to enhance my knowledge and skills and reach the pinnacle in the field with sheer determination, dedication and hard work. I am currently working on myself to gain technical knowledge and presentation/communication skills. Am capable of working as a team player or independently. Am currently pursuing my bachelor degree in Computer Science and Engineering from KIIT University.
-<!--defining python code section-->
+defining python code section
 
-<!--  this is graph -->
-<!-- ![shashikant Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashikant-sk&theme=react-dark&hide_border=true&area=true) -->
-<!-- 
+ this is graph
+![shashikant Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashikant-sk&theme=react-dark&hide_border=true&area=true)
+
 ## Who am I :point_down:?
 ```python
  from shashikant import personal_details
@@ -70,7 +70,7 @@ def Ambitions():
 		# private_ambitions out of scope :-)
 
 	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
-``` -->
+```
 
 
 # 💻Tech Stack
