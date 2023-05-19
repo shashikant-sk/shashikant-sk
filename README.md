@@ -16,66 +16,66 @@ defining python code section
 
 ## Who am I :point_down:?
 ```python
- from shashikant import personal_details
- #  from shashikant import personal_details
- # from shashikant_Personal import personal_ambitions
- class WhoAmI:
- 	name = 'shashikant'
-	current_education = "B.Tech CSE"
-	hobbies = [
-			'Traveling',
-			'Horse Riding',
-			'Watching Sci-Fi',
-			'Reading Sci-Fi Novels',
-			'Learning New Programming Languages or Frameworks',
-			'Making friends ...'
-			]
-			
-# return city name ...
+from shashikant import personal_details
+
+class WhoAmI:
+    name = 'shashikant'
+    current_education = "B.Tech CSE"
+    hobbies = [
+        'Traveling',
+        'Horse Riding',
+        'Watching Sci-Fi',
+        'Reading Sci-Fi Novels',
+        'Learning New Programming Languages or Frameworks',
+        'Making friends...'
+    ]
+
 def getCity():
-	retrun Birgunj_Nepal_Asia_Earth()
+    return "Birgunj_Nepal_Asia_Earth"
 
-# return public ambitions ...
 def Ambitions():
-	1.) Be ambitious ():-
-		 ' Ambition is the first step to Success     '
-		 ' Don”t be afraid to be Ambitious about your Goal  '
-		 ' Hard Work Never stops Neither Should Your Dream   '
-		 ' and never Let No one discourse Your ambitious Attitude.   ' 
-		 ' You Don’t Need A Fan Club to achive your Goals Be your Own Motivation  '
+    return [
+        '1.) Be ambitious ():-',
+        '   Ambition is the first step to Success',
+        '   Don’t be afraid to be Ambitious about your Goal',
+        '   Hard Work Never stops Neither Should Your Dream',
+        '   and never Let No one discourse Your ambitious Attitude.',
+        '   You Don’t Need A Fan Club to achieve your Goals Be your Own Motivation',
+        '',
+        '2.) Following your passion is not overrated ():-',
+        '   I grew up hearing that I should find my passion and pursue a career that I loved.',
+        '   I’m sure many of you received similar advice.',
+        '   When you love what you do, it never feels like work.',
+        '   For me, finding my passion will prevent you from all the obstacles and pushes you towards',
+        '   the greatness of life which every person wanted to have.',
+        '   It will beautify your work as every time you put on some extra efforts in your work task.',
+        '',
+        '3.) Wear your failures like a badge of honor ():-',
+        '   There is merit in failing if you try',
+        '   to extract valuable lessons from those perceived failures.',
+        '   If you learn from a setback,',
+        '   it’s not really a setback but a learning experience.',
+        '   Failing is great unless it becomes a habit.',
+        '   But it’s very important to recognize',
+        '   when certain things just do not fall into place.',
+        '   Always be open to plan B if the plan A doesn’t work.',
+        '',
+        '4.) Be The Best():-',
+        '   Always Do Your Best',
+        '   Always remember that you are absolutely unique'
+    ]
 
-	2.) Following your passion is not overrated ():-
-		 ' I grew up hearing that I should find my passion and pursue a career that I loved.  '
-		 ' I’m sure many of you received similar advice.   '
-		 ' When you love what you do, it never feels like work.   '
-		 ' For me, finding my passion will prevent you from all the obstacles and pushes you towards   '
-		 ' the greatness of life which every person wanted to have.' 
-		 ' It will beautify your work as every time you put on some extra efforts in your work task.  '
+print(personal_details)
 
-	3.) Wear your failures like a badge of honor ():-	 
-		 ' there is merit in failing if you try '
-		 ' to extract valuable lessons from those perceived failures. ' 
-		 ' If you learn from a setback  ' 
-		 ' it’s not really a setback but a learning experience”  ' 
+print(getCity())
 
-		 ' Failing is great unless it becomes a habit.   ' 
-		 ' But it’s very important to recognize  '
-		 ' when certain things just do not fall into place. '
-		 ' Always be open to plan B if the plan A doesn’t work.   '         
-
-	4.) Be The BesT():-
-		' Always Do Your Best  '
-		' Always remember that you are absolutely unique  '
+for ambition in Ambitions():
+    print(ambition)
 
 		    
 		# private_ambitions out of scope :-)
 
-	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
-
-		    
-		# private_ambitions out of scope :-)
-
-	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
+	#     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 ```
 
 
