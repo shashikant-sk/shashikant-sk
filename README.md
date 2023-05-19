@@ -17,6 +17,7 @@ defining python code section
 ## Who am I :point_down:?
 ```python
  from shashikant import personal_details
+ #  from shashikant import personal_details
  # from shashikant_Personal import personal_ambitions
  class WhoAmI:
  	name = 'shashikant'
@@ -65,6 +66,11 @@ def Ambitions():
 	4.) Be The BesT():-
 		' Always Do Your Best  '
 		' Always remember that you are absolutely unique  '
+
+		    
+		# private_ambitions out of scope :-)
+
+	     “Once you replace negative thoughts with positive ones, you”ll start having positive results.
 
 		    
 		# private_ambitions out of scope :-)
