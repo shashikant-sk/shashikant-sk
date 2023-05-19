@@ -95,7 +95,7 @@ def Ambitions():
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant-sk&langs_count=20&show_icons=true&hide_border=true&theme=react&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
+      <img width=325 src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashikant-sk&show_icons=true&theme=radical)" />
     </a>
 </div>
 <br/>
