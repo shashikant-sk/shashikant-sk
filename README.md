@@ -133,7 +133,7 @@ for ambition in Ambitions():
   
 ## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
-Feel free to shoot a mail to : **shashikantshah540@gmail.com**
+Feel free to shoot a mail to : **passion4goal@gmail.com**
 Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
 You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
 
