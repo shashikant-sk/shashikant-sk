@@ -8,8 +8,14 @@
 ## Welcome to my World :. . . :artist: :sparkles:.
 
  
-To be a part of a progressive organization that gives scope to enhance my knowledge and skills and reach the pinnacle in the field with sheer determination, dedication and hard work. I am currently working on myself to gain technical knowledge and presentation/communication skills. Am capable of working as a team player or independently. Am currently pursuing my bachelor degree in Computer Science and Engineering from KIIT University.
-defining python code section
+👋 Hi there! I'm Shashikant Shah, a passionate Software Development Engineer with a strong foundation in computer science and engineering from KIIT University.
+
+🚀 I thrive on challenges and enjoy building high-performance, scalable applications using technologies like Node.js, Python, React, and the MERN stack. With hands-on experience from internships and professional roles, I've developed robust solutions, optimized performance, and contributed to engaging user experiences.
+
+💡 Always eager to learn, I stay ahead of industry trends and continuously enhance my skills in coding, debugging, and problem-solving. Whether collaborating in a team or working independently, I bring reliability, adaptability, and a commitment to excellence.
+
+📈 Let's connect and explore how I can contribute to exciting projects or teams pushing the boundaries of innovation!
+
 <!-- 
  this is graph
 ![shashikant Activity Graph](https://activity-graph.herokuapp.com/graph?username=shashikant-sk&theme=react-dark&hide_border=true&area=true) -->
